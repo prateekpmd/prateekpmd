@@ -41,6 +41,9 @@ I'm a passionate full stack developer with 5 years of hands-on experience, speci
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateekpmd&show_icons=true&theme=radical)
 
+## 📈 GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prateekpmd&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
 
 ## 💬 Let's Connect!
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/prateek-premananddd/)
