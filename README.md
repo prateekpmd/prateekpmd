@@ -1,7 +1,8 @@
 # Hi there, I'm Prateek Premanand ! 👋
 
 ## 🚀 About Me
-I'm a passionate full stack developer with 5 years of hands-on experience, specializing in crafting efficient and user-friendly web applications. My journey into web development began with a deep curiosity about the inner workings of the web, and it has propelled me into a dynamic career where continuous learning and adaptation are paramount. I thrive in collaborative environments, always eager to tackle complex problems and deliver high-quality, innovative solutions.
+  I'm a passionate full stack developer with 1.6 years of hands-on experience, specializing in crafting efficient and user-friendly web applications. My journey into web development began with a deep curiosity about the inner workings of the web, and it has propelled me into a dynamic career where continuous learning and adaptation are paramount. I thrive in collaborative environments, always eager to tackle complex problems and deliver high-quality, innovative solutions. 
+  My expertise spans a wide range of technologies, including JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, and PostgreSQL. I am proficient in using Git for version control, Swagger for API documentation, and Postman for testing APIs. Additionally, I have experience with Bitbucket and GitHub for code repositories, and Netlify and Vercel for deploying web applications. My goal is to leverage my comprehensive skill set to create innovative solutions that drive business growth and deliver exceptional user experiences.
 
 ## 🛠️ Technologies & Tools
 
@@ -31,8 +32,13 @@ I'm a passionate full stack developer with 5 years of hands-on experience, speci
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
 ## 🌟 Key Projects
-- **[Project Name](link-to-project)**: Brief description of the project. Technologies used: React, Node.js, MongoDB.
-- **[Project Name](link-to-project)**: Brief description of the project. Technologies used: Next.js, MySQL, Express.
+- **[Portfolio Website](https://prateek-premanand.vercel.app/)**:A personal portfolio website showcasing projects, skills, and contact information.
+- **[Product Order /Invoice Generator](https://kb-eight-khaki.vercel.app/)**:Product Order Invoice Generator, built on React, which lets you Print and download Product Invoices on the fly. (Client side).
+- **[Itodo (FULL STACK App)](https://react-portfolio-prateek.vercel.app/)**: To-do lists offer a way to increase productivity, stop you from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management and workflow.
+- **[Ping Pong Game Clone](https://gamepongjavascript.netlify.app/)**:The game is a game played in a simple way where the player uses the paddle to knock the ball back and forth and must get the ball past the other paddle to get a score. The score is represented by digits on top of the screen.
+- **[Netflix-Logo-Animation)](https://resplendent-tiramisu-c48b3b.netlify.app/)**:Netflix Intro Animation using just HTML and CSS.
+- **[Timeline Design](https://timelinedesignhtmlcss.netlify.app/)**:It is a timeline design for the website and displays each content with animation
+- **[Analog Clock](https://analogclockjavascript.netlify.app/)**: An analog clock is a tool for reading the time of day. The shortest hand indicates the hour, the longer hand indicates the minutes, and the longest arm indicates the seconds.
 
 ## 🌐 Open Source Contributions
 - **[Repository Name](link-to-repo)**: Brief description of the contribution.
