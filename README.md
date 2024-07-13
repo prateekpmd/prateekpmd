@@ -10,8 +10,7 @@ I'm a passionate full stack developer with 5 years of hands-on experience, speci
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Javascript]()
-![Css]()
+![Javascript](https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black")
 
 
 ### Back-end
@@ -20,7 +19,6 @@ I'm a passionate full stack developer with 5 years of hands-on experience, speci
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 
 ### Others
@@ -41,16 +39,11 @@ I'm a passionate full stack developer with 5 years of hands-on experience, speci
 - **[Repository Name](link-to-repo)**: Brief description of the contribution.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateekpmd&show_icons=true&theme=radical)
 
-## 🌱 Currently Learning
-- Advanced React Patterns
-- TypeScript
-- GraphQL
 
 ## 💬 Let's Connect!
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/your-linkedin-profile)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/your-twitter-handle)
-- [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=flat&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/prateek-premananddd/)
+- [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=flat&logo=google-chrome&logoColor=white)](https://prateek-premanand.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=prateekpmd&color=brightgreen)
