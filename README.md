@@ -32,17 +32,14 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
 ## 🌟 Key Projects
-- **[Portfolio Website](https://prateek-premanand.vercel.app/)**:A personal portfolio website showcasing projects, skills, and contact information.
-- **[Product Order /Invoice Generator](https://kb-eight-khaki.vercel.app/)**:Product Order Invoice Generator, built on React, which lets you Print and download Product Invoices on the fly. (Client side).
+- **[Portfolio Website](https://prateek-premanand.vercel.app/)**: A personal portfolio website showcasing projects, skills, and contact information.
+- **[Product Order /Invoice Generator](https://kb-eight-khaki.vercel.app/)**: Product Order Invoice Generator, built on React, which lets you Print and download Product Invoices on the fly. (Client side).
 - **[Itodo (FULL STACK App)](https://react-portfolio-prateek.vercel.app/)**: To-do lists offer a way to increase productivity, stop you from forgetting things, helps prioritise tasks, manage tasks effectively, use time wisely and improve time management and workflow.
-- **[Ping Pong Game Clone](https://gamepongjavascript.netlify.app/)**:The game is a game played in a simple way where the player uses the paddle to knock the ball back and forth and must get the ball past the other paddle to get a score. The score is represented by digits on top of the screen.
-- **[Netflix-Logo-Animation)](https://resplendent-tiramisu-c48b3b.netlify.app/)**:Netflix Intro Animation using just HTML and CSS.
-- **[Timeline Design](https://timelinedesignhtmlcss.netlify.app/)**:It is a timeline design for the website and displays each content with animation
+- **[Ping Pong Game Clone](https://gamepongjavascript.netlify.app/)**: The game is a game played in a simple way where the player uses the paddle to knock the ball back and forth and must get the ball past the other paddle to get a score. The score is represented by digits on top of the screen.
+- **[Netflix-Logo-Animation)](https://resplendent-tiramisu-c48b3b.netlify.app/)**: Netflix Intro Animation using just HTML and CSS.
+- **[Timeline Design](https://timelinedesignhtmlcss.netlify.app/)**: It is a timeline design for the website and displays each content with animation
 - **[Analog Clock](https://analogclockjavascript.netlify.app/)**: An analog clock is a tool for reading the time of day. The shortest hand indicates the hour, the longer hand indicates the minutes, and the longest arm indicates the seconds.
 
-## 🌐 Open Source Contributions
-- **[Repository Name](link-to-repo)**: Brief description of the contribution.
-- **[Repository Name](link-to-repo)**: Brief description of the contribution.
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prateekpmd&show_icons=true&theme=radical)
